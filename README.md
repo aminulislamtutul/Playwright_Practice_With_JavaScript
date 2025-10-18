@@ -3,3 +3,5 @@
 - Setup & Test
 - Locator
 - Locating Multiple Elements
+- DropDowns
+- Multiselect DropDowns
