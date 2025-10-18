@@ -1,1 +1,1 @@
-# Playwright_Practice_With_JavaScript
+# **Playwright Practice With JavaScript**
