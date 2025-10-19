@@ -3,6 +3,7 @@
 - Setup & Test
 - Locator
 - Locating Multiple Elements
+- Locator Builtin
 - DropDowns
 - Multiselect DropDowns
 - Assertion
