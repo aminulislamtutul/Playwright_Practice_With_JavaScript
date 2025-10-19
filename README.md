@@ -8,4 +8,5 @@
 - Multiselect DropDowns
 - Assertion
 - Soft Assertion
+- Inputbox
 - RadioButton
