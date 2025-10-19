@@ -5,3 +5,5 @@
 - Locating Multiple Elements
 - DropDowns
 - Multiselect DropDowns
+- Assertion
+- Soft Assertion
