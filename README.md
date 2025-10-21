@@ -6,6 +6,7 @@
 - Locator Builtin
 - DropDowns
 - Multiselect DropDowns
+- Auto Suggest DropDown
 - Assertion
 - Soft Assertion
 - Inputbox
