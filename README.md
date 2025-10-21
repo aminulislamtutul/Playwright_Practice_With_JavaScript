@@ -11,3 +11,4 @@
 - Soft Assertion
 - Inputbox
 - RadioButton
+- Handle Frames
