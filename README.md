@@ -12,3 +12,4 @@
 - Inputbox
 - RadioButton
 - Handle Frames
+- Handle Inner Frames
