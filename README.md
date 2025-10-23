@@ -16,3 +16,4 @@
 - Table
 - Date Picker
 - Mouse Hover Action
+- Mouse Right Click/Context Click Action
