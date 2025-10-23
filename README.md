@@ -17,3 +17,5 @@
 - Date Picker
 - Mouse Hover Action
 - Mouse Right Click/Context Click Action
+- Mouse Double Click Action
+- Mouse Drag and Drop Action
