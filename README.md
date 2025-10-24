@@ -20,3 +20,5 @@
 - Mouse Double Click Action
 - Mouse Drag and Drop Action
 - Keyboard Action
+- Upload File
+- Hooks
