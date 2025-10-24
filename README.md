@@ -22,4 +22,5 @@
 - Keyboard Action
 - Upload File
 - Hooks
-- Groupin Test
+- Grouping Test
+- Capture Screenshot
