@@ -26,3 +26,4 @@
 - Capture Screenshot
 - Record Video
 - POM
+- Handle Multiple Page/Windows
