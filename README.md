@@ -24,3 +24,4 @@
 - Hooks
 - Grouping Test
 - Capture Screenshot
+- Record Video
