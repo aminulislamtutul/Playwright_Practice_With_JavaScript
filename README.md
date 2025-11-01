@@ -25,3 +25,4 @@
 - Grouping Test
 - Capture Screenshot
 - Record Video
+- POM
